@@ -18,7 +18,6 @@ Washington.
 It imports data from three csv files and provide descriptive analysis on the data. It also takes in users' raw input to create an interactive experience to present these analysis.
 
 ### Files used
-<<<<<<< HEAD
 chicago.csv <br />
 new_york_city.csv <br />
 washington.csv
@@ -29,14 +28,14 @@ https://github.com/xhlow/udacity-bikeshare-project
 https://docs.python.org/3/
 https://pandas.pydata.org/pandas-docs/stable/
 
-converting a column into datetime
+converting a column into datetime <br />
 https://stackoverflow.com/questions/26763344/convert-pandas-column-to-datetime
 
-filter by column value:
+filter by column value: <br />
 https://stackoverflow.com/questions/17071871/select-rows-from-a-dataframe-based-on-values-in-a-column-in-pandas
 
-valid inputs:
+valid inputs:<br />
 https://stackoverflow.com/questions/23294658/asking-the-user-for-input-until-they-give-a-valid-response
 
-concatenation:
+concatenation:<br />
 https://stackoverflow.com/questions/2847386/python-string-and-integer-concatenation
