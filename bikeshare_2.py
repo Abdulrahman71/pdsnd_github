@@ -19,6 +19,7 @@ def get_filters():
     print('Hello! Let\'s explore some US bikeshare data!')
     # get user input for city (chicago, new york city, washington). HINT: Use a while loop to handle invalid inputs
     while True:
+        # inputs must be typed as string by user
         city = input('\nType the name of the city you want to explore its data. \n' +
                      '\nChicago. \nNew York City. \nWashington. \n')
         if city.lower() in CITY_DATA.keys():
@@ -70,7 +71,7 @@ def load_data(city, month, day):
         months = ['january', 'february', 'march', 'april', 'may', 'june']
         month = months.index(month) + 1
 
-        # filter by month
+        # filter by month of year
         df = df[df['month'] == month]
 
     if day != 'all':
