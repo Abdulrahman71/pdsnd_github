@@ -10,10 +10,19 @@ Chicago. <br /> New York City. <br /> Washington.
 
 The script imports data from three csv files and provide descriptive analysis on the data. It also takes in users' raw input to create an interactive experience to present these analysis.
 
+This Python script is for exploring data related to the bicycle rentals "bikeshare", it offers three cities to explore:
+Chicago.
+New York City.
+Washington.
+
+It imports data from three csv files and provide descriptive analysis on the data. It also takes in users' raw input to create an interactive experience to present these analysis.
+
 ### Files used
+<<<<<<< HEAD
 chicago.csv <br />
 new_york_city.csv <br />
 washington.csv
+
 
 ### Credits
 https://github.com/xhlow/udacity-bikeshare-project
