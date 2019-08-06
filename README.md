@@ -39,3 +39,6 @@ https://stackoverflow.com/questions/23294658/asking-the-user-for-input-until-the
 
 concatenation:<br />
 https://stackoverflow.com/questions/2847386/python-string-and-integer-concatenation
+
+Convert seconds to hours, minutes and seconds:<br />
+https://stackoverflow.com/questions/775049/how-to-convert-seconds-to-hours-minutes-and-seconds
